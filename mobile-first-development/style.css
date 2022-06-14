@@ -28,7 +28,7 @@ h3 {
   margin-bottom: 100px;
 }
 
-/* Mobile-first responsive block */
+/* For screens wider than 800px */
 @media all and (min-width: 800px) {
   section,
   h1 {
